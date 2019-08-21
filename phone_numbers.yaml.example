@@ -1,0 +1,14 @@
+account_one:
+  enabled: true
+  numbers:
+  - enabled: true
+    number: +79991234567
+  - enabled: true
+    number: +79997654321
+account_two:
+  enabled: true
+  numbers:
+  - enabled: true
+    number: +79991122334
+  - enabled: false
+    number: +79994433221
